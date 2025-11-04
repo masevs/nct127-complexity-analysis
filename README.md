@@ -1,4 +1,4 @@
-# 🎵 Performance Complexity in NCT 127
+# Performance Complexity in NCT 127
 Quantifying and Modeling Musical Hardness Using Audio Features and Spectrogram-Based Learning
 
 ## Overview
