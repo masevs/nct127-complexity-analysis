@@ -36,7 +36,7 @@ The goal is to provide scientific evidence supporting the group’s reputation f
 - Ay-Yo: Lower overall difficulty
 
 📄 **Read the Full Paper (PDF):**  
-[Performance Complexity in NCT 127 – Full Paper](masevs/nct127-complexity-analysis/blob/main/Performance%20Complexity%20in%20NCT%20127%20Quantifying%20and%20Modeling%20Musical%20Hardness%20Using%20Audio%20Features%20and%20Spectrogram%20Based%20Learning%20draft.pdf)
+[Performance Complexity in NCT 127 – Full Paper](Performance%20Complexity%20in%20NCT%20127%20Quantifying%20and%20Modeling%20Musical%20Hardness%20Using%20Audio%20Features%20and%20Spectrogram%20Based%20Learning%20draft.pdf)
 
 ## Author
 Imas Viestawati
