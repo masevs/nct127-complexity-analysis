@@ -36,6 +36,7 @@ The goal is to provide scientific evidence supporting the group’s reputation f
 - Ay-Yo: Lower overall difficulty
 
 ## Author
-Imas Viestawati – Independent Researcher  
-If you find this useful, feel free to ⭐ the repo!
+Imas Viestawati
+Independent Researcher  
+If you find this useful, feel free to like the repo!
 
