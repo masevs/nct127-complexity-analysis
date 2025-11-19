@@ -35,8 +35,12 @@ The goal is to provide scientific evidence supporting the group’s reputation f
 - Kick It: High hardness (percussive + pitch range)
 - Ay-Yo: Lower overall difficulty
 
+📄 **Read the Full Paper (PDF):**  
+[Performance Complexity in NCT 127 – Full Paper](NCT%20127%20computative/Result/Performance%20Complexity%20in%20NCT%20127%20Quantifying%20and%20Modeling%20Musical%20Hardness%20Using%20Audio%20Features%20and%20Spectrogram%20Based%20Learning%20draft.pdf)
+
 ## Author
 Imas Viestawati
 Independent Researcher  
 If you find this useful, feel free to like the repo!
+
 
